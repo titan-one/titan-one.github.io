@@ -40,6 +40,8 @@
 a:link {
   color: white;
   font-size:16px;
+  text-decoration: none;
+  font-style: italic;
 }
 
 /* visited link */

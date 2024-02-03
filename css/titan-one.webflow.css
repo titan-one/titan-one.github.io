@@ -97,8 +97,8 @@ a:active {
 }
 
 .example_box_container {
-  margin-top: 40px;
   margin:auto;
+  padding-top:40px
 }
 
 .example_box {
